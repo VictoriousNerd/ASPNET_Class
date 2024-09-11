@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victo\\source\\repos\\Test_Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11900627-2848-48C6-B0AE-93EA5B27CCED}|Test_Projects\\Test_Projects.csproj|c:\\users\\victo\\source\\repos\\test_projects\\test_projects\\validationtypes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{11900627-2848-48C6-B0AE-93EA5B27CCED}|Test_Projects\\Test_Projects.csproj|solutionrelative:test_projects\\validationtypes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11900627-2848-48C6-B0AE-93EA5B27CCED}|Test_Projects\\Test_Projects.csproj|C:\\Users\\victo\\source\\repos\\Test_Projects\\test_projects\\hieararchical_inheritance_example.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11900627-2848-48C6-B0AE-93EA5B27CCED}|Test_Projects\\Test_Projects.csproj|solutionrelative:test_projects\\hieararchical_inheritance_example.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11900627-2848-48C6-B0AE-93EA5B27CCED}|Test_Projects\\Test_Projects.csproj|C:\\Users\\victo\\source\\repos\\Test_Projects\\test_projects\\hieararchical_inheritance_example.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{11900627-2848-48C6-B0AE-93EA5B27CCED}|Test_Projects\\Test_Projects.csproj|solutionrelative:test_projects\\hieararchical_inheritance_example.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11900627-2848-48C6-B0AE-93EA5B27CCED}|Test_Projects\\Test_Projects.csproj|C:\\Users\\victo\\source\\repos\\Test_Projects\\test_projects\\positive_numbers_linq.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{11900627-2848-48C6-B0AE-93EA5B27CCED}|Test_Projects\\Test_Projects.csproj|solutionrelative:test_projects\\positive_numbers_linq.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11900627-2848-48C6-B0AE-93EA5B27CCED}|Test_Projects\\Test_Projects.csproj|C:\\Users\\victo\\source\\repos\\Test_Projects\\test_projects\\password_change.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{11900627-2848-48C6-B0AE-93EA5B27CCED}|Test_Projects\\Test_Projects.csproj|solutionrelative:test_projects\\password_change.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11900627-2848-48C6-B0AE-93EA5B27CCED}|Test_Projects\\Test_Projects.csproj|C:\\Users\\victo\\source\\repos\\Test_Projects\\test_projects\\login_form.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{11900627-2848-48C6-B0AE-93EA5B27CCED}|Test_Projects\\Test_Projects.csproj|solutionrelative:test_projects\\login_form.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11900627-2848-48C6-B0AE-93EA5B27CCED}|Test_Projects\\Test_Projects.csproj|C:\\Users\\victo\\source\\repos\\Test_Projects\\test_projects\\account_info.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{11900627-2848-48C6-B0AE-93EA5B27CCED}|Test_Projects\\Test_Projects.csproj|solutionrelative:test_projects\\account_info.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11900627-2848-48C6-B0AE-93EA5B27CCED}|Test_Projects\\Test_Projects.csproj|C:\\Users\\victo\\source\\repos\\Test_Projects\\test_projects\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{11900627-2848-48C6-B0AE-93EA5B27CCED}|Test_Projects\\Test_Projects.csproj|solutionrelative:test_projects\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11900627-2848-48C6-B0AE-93EA5B27CCED}|Test_Projects\\Test_Projects.csproj|C:\\Users\\victo\\source\\repos\\Test_Projects\\test_projects\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{11900627-2848-48C6-B0AE-93EA5B27CCED}|Test_Projects\\Test_Projects.csproj|solutionrelative:test_projects\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hieararchical_Inheritance_Example.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\repos\\Test_Projects\\Test_Projects\\Hieararchical_Inheritance_Example.aspx.cs",
+              "RelativeDocumentMoniker": "Test_Projects\\Hieararchical_Inheritance_Example.aspx.cs",
+              "ToolTip": "C:\\Users\\victo\\source\\repos\\Test_Projects\\Test_Projects\\Hieararchical_Inheritance_Example.aspx.cs",
+              "RelativeToolTip": "Test_Projects\\Hieararchical_Inheritance_Example.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T19:42:10.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValidationTypes.aspx",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\repos\\Test_Projects\\Test_Projects\\ValidationTypes.aspx",
+              "RelativeDocumentMoniker": "Test_Projects\\ValidationTypes.aspx",
+              "ToolTip": "C:\\Users\\victo\\source\\repos\\Test_Projects\\Test_Projects\\ValidationTypes.aspx",
+              "RelativeToolTip": "Test_Projects\\ValidationTypes.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-22T19:34:53.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Positive_Numbers_LINQ.aspx",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\repos\\Test_Projects\\Test_Projects\\Positive_Numbers_LINQ.aspx",
+              "RelativeDocumentMoniker": "Test_Projects\\Positive_Numbers_LINQ.aspx",
+              "ToolTip": "C:\\Users\\victo\\source\\repos\\Test_Projects\\Test_Projects\\Positive_Numbers_LINQ.aspx",
+              "RelativeToolTip": "Test_Projects\\Positive_Numbers_LINQ.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-22T19:41:37.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "password_change.aspx",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\repos\\Test_Projects\\Test_Projects\\password_change.aspx",
+              "RelativeDocumentMoniker": "Test_Projects\\password_change.aspx",
+              "ToolTip": "C:\\Users\\victo\\source\\repos\\Test_Projects\\Test_Projects\\password_change.aspx",
+              "RelativeToolTip": "Test_Projects\\password_change.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-22T19:41:36.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login_Form.aspx",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\repos\\Test_Projects\\Test_Projects\\Login_Form.aspx",
+              "RelativeDocumentMoniker": "Test_Projects\\Login_Form.aspx",
+              "ToolTip": "C:\\Users\\victo\\source\\repos\\Test_Projects\\Test_Projects\\Login_Form.aspx",
+              "RelativeToolTip": "Test_Projects\\Login_Form.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-22T19:41:36.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Account_Info.aspx",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\repos\\Test_Projects\\Test_Projects\\Account_Info.aspx",
+              "RelativeDocumentMoniker": "Test_Projects\\Account_Info.aspx",
+              "ToolTip": "C:\\Users\\victo\\source\\repos\\Test_Projects\\Test_Projects\\Account_Info.aspx",
+              "RelativeToolTip": "Test_Projects\\Account_Info.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-22T19:41:34.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hieararchical_Inheritance_Example.aspx",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\repos\\Test_Projects\\Test_Projects\\Hieararchical_Inheritance_Example.aspx",
+              "RelativeDocumentMoniker": "Test_Projects\\Hieararchical_Inheritance_Example.aspx",
+              "ToolTip": "C:\\Users\\victo\\source\\repos\\Test_Projects\\Test_Projects\\Hieararchical_Inheritance_Example.aspx",
+              "RelativeToolTip": "Test_Projects\\Hieararchical_Inheritance_Example.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-22T19:36:59.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\repos\\Test_Projects\\Test_Projects\\Site1.Master",
+              "RelativeDocumentMoniker": "Test_Projects\\Site1.Master",
+              "ToolTip": "C:\\Users\\victo\\source\\repos\\Test_Projects\\Test_Projects\\Site1.Master",
+              "RelativeToolTip": "Test_Projects\\Site1.Master",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-22T17:22:07.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\repos\\Test_Projects\\Test_Projects\\Web.config",
+              "RelativeDocumentMoniker": "Test_Projects\\Web.config",
+              "ToolTip": "C:\\Users\\victo\\source\\repos\\Test_Projects\\Test_Projects\\Web.config",
+              "RelativeToolTip": "Test_Projects\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-22T16:49:48.36Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victo\\source\\repos\\EmpManagSys\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B06DBB77-A6BF-44D3-B5F8-B06F9B0A2EA9}|C:\\Users\\victo\\source\\repos\\EmpManagSys|c:\\users\\victo\\source\\repos\\empmanagsys\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B06DBB77-A6BF-44D3-B5F8-B06F9B0A2EA9}|C:\\Users\\victo\\source\\repos\\EmpManagSys|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.Config",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\repos\\EmpManagSys\\Web.Config",
+              "RelativeDocumentMoniker": "Web.Config",
+              "ToolTip": "C:\\Users\\victo\\source\\repos\\EmpManagSys\\Web.Config",
+              "RelativeToolTip": "Web.Config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-17T16:18:59.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

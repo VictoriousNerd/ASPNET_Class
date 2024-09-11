@@ -1,0 +1,41 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Employee_Management_System.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12">
+                    <ul class="nav justify-content-center pt-2">
+                        <li class="nav-item">
+                            <a class="nav-link" href="login.aspx">Login</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="registration.aspx">Registration</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="profile.aspx">Profile</a>
+                        </li>
+                        <li class="nav-item">
+                            <asp:Label ID="user_logged_in" runat="server" Text=""></asp:Label>
+                        </li>
+                        <li class="nav-item">
+                            <asp:Button ID="user_logout" runat="server" Text="Logout" CssClass="btn btn-secondary" />
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victo\\source\\repos\\employee_management_system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58EF1033-B053-4325-AD94-0F8DD6AB1F32}|employee_management_system\\employee_management_system.csproj|C:\\Users\\victo\\source\\repos\\employee_management_system\\employee_management_system\\emp_manag_sys.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{58EF1033-B053-4325-AD94-0F8DD6AB1F32}|employee_management_system\\employee_management_system.csproj|solutionrelative:employee_management_system\\emp_manag_sys.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EF1033-B053-4325-AD94-0F8DD6AB1F32}|employee_management_system\\employee_management_system.csproj|C:\\Users\\victo\\source\\repos\\employee_management_system\\employee_management_system\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EF1033-B053-4325-AD94-0F8DD6AB1F32}|employee_management_system\\employee_management_system.csproj|solutionrelative:employee_management_system\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EF1033-B053-4325-AD94-0F8DD6AB1F32}|employee_management_system\\employee_management_system.csproj|c:\\users\\victo\\source\\repos\\employee_management_system\\employee_management_system\\registration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EF1033-B053-4325-AD94-0F8DD6AB1F32}|employee_management_system\\employee_management_system.csproj|solutionrelative:employee_management_system\\registration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EF1033-B053-4325-AD94-0F8DD6AB1F32}|employee_management_system\\employee_management_system.csproj|C:\\Users\\victo\\source\\repos\\employee_management_system\\employee_management_system\\registration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{58EF1033-B053-4325-AD94-0F8DD6AB1F32}|employee_management_system\\employee_management_system.csproj|solutionrelative:employee_management_system\\registration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EF1033-B053-4325-AD94-0F8DD6AB1F32}|employee_management_system\\employee_management_system.csproj|C:\\Users\\victo\\source\\repos\\employee_management_system\\employee_management_system\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{58EF1033-B053-4325-AD94-0F8DD6AB1F32}|employee_management_system\\employee_management_system.csproj|solutionrelative:employee_management_system\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EF1033-B053-4325-AD94-0F8DD6AB1F32}|employee_management_system\\employee_management_system.csproj|C:\\Users\\victo\\source\\repos\\employee_management_system\\employee_management_system\\profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{58EF1033-B053-4325-AD94-0F8DD6AB1F32}|employee_management_system\\employee_management_system.csproj|solutionrelative:employee_management_system\\profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EF1033-B053-4325-AD94-0F8DD6AB1F32}|employee_management_system\\employee_management_system.csproj|C:\\Users\\victo\\source\\repos\\employee_management_system\\employee_management_system\\profile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EF1033-B053-4325-AD94-0F8DD6AB1F32}|employee_management_system\\employee_management_system.csproj|solutionrelative:employee_management_system\\profile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EF1033-B053-4325-AD94-0F8DD6AB1F32}|employee_management_system\\employee_management_system.csproj|C:\\Users\\victo\\source\\repos\\employee_management_system\\employee_management_system\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{58EF1033-B053-4325-AD94-0F8DD6AB1F32}|employee_management_system\\employee_management_system.csproj|solutionrelative:employee_management_system\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\repos\\employee_management_system\\employee_management_system\\Web.config",
+              "RelativeDocumentMoniker": "employee_management_system\\Web.config",
+              "ToolTip": "C:\\Users\\victo\\source\\repos\\employee_management_system\\employee_management_system\\Web.config",
+              "RelativeToolTip": "employee_management_system\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-19T22:04:02.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "registration.aspx",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\repos\\employee_management_system\\employee_management_system\\registration.aspx",
+              "RelativeDocumentMoniker": "employee_management_system\\registration.aspx",
+              "ToolTip": "C:\\Users\\victo\\source\\repos\\employee_management_system\\employee_management_system\\registration.aspx",
+              "RelativeToolTip": "employee_management_system\\registration.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-19T22:00:19.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "registration.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\repos\\employee_management_system\\employee_management_system\\registration.aspx.cs",
+              "RelativeDocumentMoniker": "employee_management_system\\registration.aspx.cs",
+              "ToolTip": "C:\\Users\\victo\\source\\repos\\employee_management_system\\employee_management_system\\registration.aspx.cs",
+              "RelativeToolTip": "employee_management_system\\registration.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T22:08:27.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "login.aspx",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\repos\\employee_management_system\\employee_management_system\\login.aspx",
+              "RelativeDocumentMoniker": "employee_management_system\\login.aspx",
+              "ToolTip": "C:\\Users\\victo\\source\\repos\\employee_management_system\\employee_management_system\\login.aspx",
+              "RelativeToolTip": "employee_management_system\\login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-19T21:57:26.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\repos\\employee_management_system\\employee_management_system\\login.aspx.cs",
+              "RelativeDocumentMoniker": "employee_management_system\\login.aspx.cs",
+              "ToolTip": "C:\\Users\\victo\\source\\repos\\employee_management_system\\employee_management_system\\login.aspx.cs",
+              "RelativeToolTip": "employee_management_system\\login.aspx.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAGsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T22:32:33.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "profile.aspx",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\repos\\employee_management_system\\employee_management_system\\profile.aspx",
+              "RelativeDocumentMoniker": "employee_management_system\\profile.aspx",
+              "ToolTip": "C:\\Users\\victo\\source\\repos\\employee_management_system\\employee_management_system\\profile.aspx",
+              "RelativeToolTip": "employee_management_system\\profile.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-19T21:59:02.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "profile.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\repos\\employee_management_system\\employee_management_system\\profile.aspx.cs",
+              "RelativeDocumentMoniker": "employee_management_system\\profile.aspx.cs",
+              "ToolTip": "C:\\Users\\victo\\source\\repos\\employee_management_system\\employee_management_system\\profile.aspx.cs",
+              "RelativeToolTip": "employee_management_system\\profile.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T22:54:34.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "emp_manag_sys.Master",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\repos\\employee_management_system\\employee_management_system\\emp_manag_sys.Master",
+              "RelativeDocumentMoniker": "employee_management_system\\emp_manag_sys.Master",
+              "ToolTip": "C:\\Users\\victo\\source\\repos\\employee_management_system\\employee_management_system\\emp_manag_sys.Master",
+              "RelativeToolTip": "employee_management_system\\emp_manag_sys.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-19T21:56:24.889Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

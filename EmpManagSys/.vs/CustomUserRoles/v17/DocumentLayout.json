@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victo\\source\\repos\\CustomUserRoles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B06DBB77-A6BF-44D3-B5F8-B06F9B0A2EA9}|C:\\Users\\victo\\source\\repos\\CustomUserRoles|C:\\Users\\victo\\source\\repos\\CustomUserRoles\\admin\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B06DBB77-A6BF-44D3-B5F8-B06F9B0A2EA9}|C:\\Users\\victo\\source\\repos\\CustomUserRoles|solutionrelative:admin\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06DBB77-A6BF-44D3-B5F8-B06F9B0A2EA9}|C:\\Users\\victo\\source\\repos\\CustomUserRoles|c:\\users\\victo\\source\\repos\\customuserroles\\app_code\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06DBB77-A6BF-44D3-B5F8-B06F9B0A2EA9}|C:\\Users\\victo\\source\\repos\\CustomUserRoles|solutionrelative:app_code\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06DBB77-A6BF-44D3-B5F8-B06F9B0A2EA9}|C:\\Users\\victo\\source\\repos\\CustomUserRoles|C:\\Users\\victo\\source\\repos\\CustomUserRoles\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B06DBB77-A6BF-44D3-B5F8-B06F9B0A2EA9}|C:\\Users\\victo\\source\\repos\\CustomUserRoles|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06DBB77-A6BF-44D3-B5F8-B06F9B0A2EA9}|C:\\Users\\victo\\source\\repos\\CustomUserRoles|C:\\Users\\victo\\source\\repos\\CustomUserRoles\\masterpage.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06DBB77-A6BF-44D3-B5F8-B06F9B0A2EA9}|C:\\Users\\victo\\source\\repos\\CustomUserRoles|solutionrelative:masterpage.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06DBB77-A6BF-44D3-B5F8-B06F9B0A2EA9}|C:\\Users\\victo\\source\\repos\\CustomUserRoles|C:\\Users\\victo\\source\\repos\\CustomUserRoles\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{B06DBB77-A6BF-44D3-B5F8-B06F9B0A2EA9}|C:\\Users\\victo\\source\\repos\\CustomUserRoles|solutionrelative:masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06DBB77-A6BF-44D3-B5F8-B06F9B0A2EA9}|C:\\Users\\victo\\source\\repos\\CustomUserRoles|C:\\Users\\victo\\source\\repos\\CustomUserRoles\\admin\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B06DBB77-A6BF-44D3-B5F8-B06F9B0A2EA9}|C:\\Users\\victo\\source\\repos\\CustomUserRoles|solutionrelative:admin\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\repos\\CustomUserRoles\\Admin\\Web.config",
+              "RelativeDocumentMoniker": "Admin\\Web.config",
+              "ToolTip": "C:\\Users\\victo\\source\\repos\\CustomUserRoles\\Admin\\Web.config",
+              "RelativeToolTip": "Admin\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-17T15:42:47.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\repos\\CustomUserRoles\\Admin\\Default.aspx",
+              "RelativeDocumentMoniker": "Admin\\Default.aspx",
+              "ToolTip": "C:\\Users\\victo\\source\\repos\\CustomUserRoles\\Admin\\Default.aspx",
+              "RelativeToolTip": "Admin\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-17T15:42:46.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBHelper.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\repos\\CustomUserRoles\\App_Code\\DBHelper.cs",
+              "RelativeDocumentMoniker": "App_Code\\DBHelper.cs",
+              "ToolTip": "C:\\Users\\victo\\source\\repos\\CustomUserRoles\\App_Code\\DBHelper.cs",
+              "RelativeToolTip": "App_Code\\DBHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T14:26:32.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.Config",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\repos\\CustomUserRoles\\Web.Config",
+              "RelativeDocumentMoniker": "Web.Config",
+              "ToolTip": "C:\\Users\\victo\\source\\repos\\CustomUserRoles\\Web.Config",
+              "RelativeToolTip": "Web.Config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-17T14:25:54.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MasterPage.master.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\repos\\CustomUserRoles\\MasterPage.master.cs",
+              "RelativeDocumentMoniker": "MasterPage.master.cs",
+              "ToolTip": "C:\\Users\\victo\\source\\repos\\CustomUserRoles\\MasterPage.master.cs",
+              "RelativeToolTip": "MasterPage.master.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T14:25:46.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MasterPage.master",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\repos\\CustomUserRoles\\MasterPage.master",
+              "RelativeDocumentMoniker": "MasterPage.master",
+              "ToolTip": "C:\\Users\\victo\\source\\repos\\CustomUserRoles\\MasterPage.master",
+              "RelativeToolTip": "MasterPage.master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-17T14:25:40.298Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
